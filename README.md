@@ -56,6 +56,5 @@ This project provides useful insights into customer purchasing behavior and sale
 ## Contact
 Feel free to reach out if you have any questions or suggestions!
 - Name : Suman Shaw
-- LinkedIn : www.linkedin.com/in/
-suman-shaw2310
+- LinkedIn : www.linkedin.com/in/suman-shaw2310
 - GitHub: https://github.com/sumanshaw9
